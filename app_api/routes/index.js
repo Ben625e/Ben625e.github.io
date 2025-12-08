@@ -56,6 +56,10 @@ router
     .route('/login')
     .post(authController.login);
 
+//define route for out deleteUser endpoint
+router
+    .route('/deleteUser')
+    .delete(authController.deleteUser);
 // define route for our trips endpoint
 router
     .route("/trips")
@@ -64,9 +68,12 @@ router
 
 // GET Method routes tripsFindByCode - requires parameter
 // PUT Method routes tripsUpdateTrip - requires parameter
+// ENHANCEMENT 3 DONE 11/25/25
+// DELETE Method routes tripsDeleteTrip- requires parameter
 router
     .route('/trips/:tripCode')
     .get(tripsController.tripsFindByCode) // GET Method routes tripList
     .put(authenticateJWT, tripsController.tripsUpdateTrip)
+    .delete(tripsController.tripsDeleteTrip) // DELETE Method
 
 module.exports = router;

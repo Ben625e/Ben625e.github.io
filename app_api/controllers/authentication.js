@@ -64,7 +64,38 @@ const login = (req, res) => {
     }) (req, res);
 };
 
+// ENHANCEMENT 3 DONE 11/26/25
+// DELETE: /deleteUser - Deletes a single User
+// Regardless of outcome, response must include HTML status code
+// and Json message to the requesting client
+const deleteUser = async(req, res) => {
+    // Validate the email is present
+    if (!req.body.email) {
+        return res
+            .status(400)
+            .json({"message": "Missing email field"});
+    }
+
+    const qUser = await User.findOneAndDelete(
+        { 'email' : req.body.email},
+    )
+    .exec();
+
+    if(!qUser)
+    { // User was not found
+        return res
+            .status(404)
+            .json(err);
+    } else { // User was found and deleted
+        return res
+            .status(200)
+            .json(qUser);
+    }
+}
+
+
 module.exports = {
     register,
-    login
+    login,
+    deleteUser
 };

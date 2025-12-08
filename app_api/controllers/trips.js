@@ -62,7 +62,7 @@ const tripsAddTrip = async(req, res) => {
         image: req.body.image,
         description: req.body.description
     });
-
+    
     const q = await newTrip.save();
 
         if(!q)
@@ -106,18 +106,39 @@ const tripsUpdateTrip = async(req, res) => {
             return res
                 .status(400)
                 .json(err);
-        } else { // Return resulting updated trip
+        } else { // Return resulting deleted trip
             return res
                 .status(201)
                 .json(q);
         }
 };
+// ENHANCEMENT 3 DONE 11/25/25
+// DELETE: /deleteUser - Deletes a single Trip
+// Regardless of outcome, response must include HTML status code
+// and Json message to the requesting client
+const tripsDeleteTrip = async(req, res) => {
+    const q = await Model
+        .findOneAndDelete(
+            { 'code' : req.params.tripCode},
+        )
+        .exec();
 
-
+        if(!q)
+        { // Database did not find the trip
+            return res
+                .status(400)
+                .json(err);
+        } else { // Return resulting updated trip
+            return res
+                .status(201)
+                .json(err);
+        }
+};
 
 module.exports = {
     tripsList,
     tripsFindByCode,
     tripsAddTrip,
-    tripsUpdateTrip
+    tripsUpdateTrip,
+    tripsDeleteTrip
 };
