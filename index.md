@@ -20,4 +20,9 @@ This portfolio's main focus is based around 3 artifacts that improve upon old pr
 
 ## Code Review
 
-{% include youtube.html id="GnDcM9CBogA" %}
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/GnDcM9CBogA" 
+  title="Benjamin Mills CS-499 Code Review" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
