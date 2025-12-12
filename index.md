@@ -135,9 +135,9 @@ This image shows the created account I made on the SPA portion of the websites i
 This image shows a newly created trip on the bottom right named “Test’s Trip”.<br><br>
 ![New Trip Data View](/docs/assets/images/CS465NewTripDataEnhance3.png)<br>
 This shows the test trip’s information in the database.<br><br>
-![New Trip Delete View](/docs/assets/images/CS465NewDeleteTripEnhance3.png)<br>
+![New Trip Delete View](/docs/assets/images/CS465DeleteTripEnhance3.png)<br>
 This screenshot shows a successful delete request, using the unique trip code in the parameters.<br><br>
-![New Trip Gone View](/docs/assets/images/CS465NewTripGoneEnhance3.png)<br>
+![New Trip Gone View](/docs/assets/images/CS465TripGoneEnhance3.png)<br>
 Here it shows the trip gone from both the database and on the website.<br><br>
 ![New User Delete View](/docs/assets/images/CS465DeleteUserEnhance3.png)<br>
 This shows a successful delete user function, which requires data to be sent along with the request shown in the email under “Body”.<br><br>
