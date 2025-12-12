@@ -125,4 +125,4 @@ Working on this enhancement further demonstrated how understanding a data struct
 ## Artifact Three - Databases
 The Original Project can be found -> [Here](https://github.com/Ben625e/CS465-fullstack)
 
-The Enhanced Project can be found -> [Here](https://github.com/Ben625e/Ben625e.github.io/tree/Enhancement)
+The Enhanced Project can be found -> [Here](https://github.com/Ben625e/Ben625e.github.io/tree/Enhancement) (Note: You will have to go to the module8 branch which can also be found [Here](https://github.com/Ben625e/CS465-fullstack/tree/module8))
