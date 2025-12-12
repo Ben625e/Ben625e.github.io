@@ -61,4 +61,6 @@ The code review then explains the enhancement that will be done on the project w
 The conclusion of the code review quickly goes back over the projects and the enhancements that will be done. It mentions where the enhancements can be found, in this ePortfolio.
 
 ## Artifact One - Software Design and Engineering
+The Original Project can be found -> [Here](https://github.com/Ben625e/CS-320)
+The Enhanced Project can be found -> [Here](https://github.com/Ben625e/Ben625e.github.io/tree/main/BenjaminMillsCS320ProjectOneEnhancement1)
 
