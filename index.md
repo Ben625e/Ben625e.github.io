@@ -64,3 +64,4 @@ The conclusion of the code review quickly goes back over the projects and the en
 The Original Project can be found -> [Here](https://github.com/Ben625e/CS-320)
 The Enhanced Project can be found -> [Here](https://github.com/Ben625e/Ben625e.github.io/tree/main/BenjaminMillsCS320ProjectOneEnhancement1)
 
+![Project View](/docs/assets/images/CS320ProjectView.png)
