@@ -126,3 +126,21 @@ Working on this enhancement further demonstrated how understanding a data struct
 The Original Project can be found -> [Here](https://github.com/Ben625e/CS465-fullstack) (Note: You will have to go to the module8 branch which can also be found [Here](https://github.com/Ben625e/CS465-fullstack/tree/module8))
 
 The Enhanced Project can be found -> [Here](https://github.com/Ben625e/Ben625e.github.io/tree/Enhancement)
+
+The artifact was created delete functionality for the travel booking website created using Angular, MongoDB, and Express. The created functions had to be routed to the database and successfully make changes, which should be shown on the website, and the results should send back the deleted data.<br><br>
+
+![New User View](/docs/assets/images/CS465NewUserEnhance3.png)<br>
+This image shows the created account I made on the SPA portion of the websites in the database.<br><br>
+![New Trip View](/docs/assets/images/CS465NewTripEnhance3.png)<br>
+This image shows a newly created trip on the bottom right named “Test’s Trip”.<br><br>
+![New Trip Data View](/docs/assets/images/CS465NewTripDataEnhance3.png)<br>
+This shows the test trip’s information in the database.<br><br>
+![New Trip Delete View](/docs/assets/images/CS465NewDeleteTripEnhance3.png)<br>
+This screenshot shows a successful delete request, using the unique trip code in the parameters.<br><br>
+![New Trip Gone View](/docs/assets/images/CS465NewTripGoneEnhance3.png)<br>
+Here it shows the trip gone from both the database and on the website.<br><br>
+![New User Delete View](/docs/assets/images/CS465DeleteUserEnhance3.png)<br>
+This shows a successful delete user function, which requires data to be sent along with the request shown in the email under “Body”.<br><br>
+![New User Gone View](/docs/assets/images/CS465UserGoneEnhance3.png)<br>
+This is the database showing only a single admin user after the delete function was performed.<br><br>
+
