@@ -62,6 +62,9 @@ The conclusion of the code review quickly goes back over the projects and the en
 
 ## Artifact One - Software Design and Engineering
 The Original Project can be found -> [Here](https://github.com/Ben625e/CS-320)
+
 The Enhanced Project can be found -> [Here](https://github.com/Ben625e/Ben625e.github.io/tree/main/BenjaminMillsCS320ProjectOneEnhancement1)
 
+The following images provide quick recap of what was shown in the code review.
 ![Project View](/docs/assets/images/CS320ProjectView.png)
+This shows the original projects files, note that each of the 3 portions of the project (AppointmentService, ContactService, and TaskService) each have 2 functional class files and 2 testing class files.
