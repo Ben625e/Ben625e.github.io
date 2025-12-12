@@ -81,7 +81,7 @@ This shows one of the controller classes, the AppointmentService class. Note tha
 
 ![Test View](/docs/assets/images/CS320TestView.png)
 
-This shows one of the testing classes, the AppointmentServiceTest class. The testing classes make use of JUnit for executing the test scripts.<br><br><br>
+This shows one of the testing classes, the AppointmentServiceTest class. The testing classes make use of JUnit for executing the test scripts.<br>
 
 The artifact expands on a security project done in my CS program by adding read functionality to the locally stored data and adding JUnit test functions to accompany the newly created functions. The artifact uses an insertion method for gathering and sorting the data into an ArrayList for Java or more commonly known as a vector. The JUnit test is a positive test that inserts data and checks that the data is properly sorted when the read function is called.<br><br>
 
@@ -142,7 +142,7 @@ Here it shows the trip gone from both the database and on the website.<br><br><b
 ![New User Delete View](/docs/assets/images/CS465DeleteUserEnhance3.png)<br>
 This shows a successful delete user function, which requires data to be sent along with the request shown in the email under “Body”.<br><br><br>
 ![New User Gone View](/docs/assets/images/CS465UserGoneEnhance3.png)<br>
-This is the database showing only a single admin user after the delete function was performed.<br><br><br>
+This is the database showing only a single admin user after the delete function was performed.<br>
 
 This project was the most recent project I completed in my program. It was a class taken at the end of my program and was taken right before the capstone in my case. I wanted to have an old project to showcase how I can improve from older and lower quality designed, but also a newer project to highlight my growth through the program. I think that this project accomplishes that greatly as it shows my improvements in coding style, what I am capable of, and overall critical thinking in terms of the project. The artifact itself highlights my skills in web development and working with databases as this artifact makes heavy use of both. The artifact improves the functionality of the website by completing CRUD capabilities. The website was missing the ability to delete from the database which is now possible from this artifacts inclusion.
 
