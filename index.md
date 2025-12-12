@@ -70,20 +70,17 @@ The following images provide quick recap of what was shown in the code review.
 
 ![Project View](/docs/assets/images/CS320ProjectView.png)
 
-This shows the original projects files, note that each of the 3 portions of the project (AppointmentService, ContactService, and TaskService) each have 2 functional class files and 2 testing class files.
-
+This shows the original projects files, note that each of the 3 portions of the project (AppointmentService, ContactService, and TaskService) each have 2 functional class files and 2 testing class files.<br>
 
 ![Object View](/docs/assets/images/CS320ObjectView.png)
 
-This shows one of the base classes, the Appointment class. Note on line 12 the unique ID, this is shared between all the base classes. You can also see that certain restrictions are placed on each stored data like on line 15, where it says that descriptions should not be empty and should be less than 51 characters.
-
+This shows one of the base classes, the Appointment class. Note on line 12 the unique ID, this is shared between all the base classes. You can also see that certain restrictions are placed on each stored data like on line 15, where it says that descriptions should not be empty and should be less than 51 characters.<br>
 
 ![Service View](/docs/assets/images/CS320ServiceView.png)
 
-This shows one of the controller classes, the AppointmentService class. Note that the original implementation used an ArrayList structure, also known as a vector in other languages.
-
+This shows one of the controller classes, the AppointmentService class. Note that the original implementation used an ArrayList structure, also known as a vector in other languages.<br>
 
 ![Test View](/docs/assets/images/CS320TestView.png)
 
-This shows one of the testing classes, the AppointmentServiceTest class. The testing classes make use of JUnit for executing the test scripts.
+This shows one of the testing classes, the AppointmentServiceTest class. The testing classes make use of JUnit for executing the test scripts.<br>
 
