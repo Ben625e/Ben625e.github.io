@@ -130,19 +130,19 @@ The Enhanced Project can be found -> [Here](https://github.com/Ben625e/Ben625e.g
 The artifact was created delete functionality for the travel booking website created using Angular, MongoDB, and Express. The created functions had to be routed to the database and successfully make changes, which should be shown on the website, and the results should send back the deleted data.<br><br>
 
 ![New User View](/docs/assets/images/CS465NewUserEnhance3.png)<br>
-This image shows the created account I made on the SPA portion of the websites in the database.<br><br>
+This image shows the created account I made on the SPA portion of the websites in the database.<br><br><br>
 ![New Trip View](/docs/assets/images/CS465NewTripEnhance3.png)<br>
-This image shows a newly created trip on the bottom right named “Test’s Trip”.<br><br>
+This image shows a newly created trip on the bottom right named “Test’s Trip”.<br><br><br>
 ![New Trip Data View](/docs/assets/images/CS465NewTripDataEnhance3.png)<br>
-This shows the test trip’s information in the database.<br><br>
+This shows the test trip’s information in the database.<br><br><br>
 ![New Trip Delete View](/docs/assets/images/CS465DeleteTripEnhance3.png)<br>
-This screenshot shows a successful delete request, using the unique trip code in the parameters.<br><br>
+This screenshot shows a successful delete request, using the unique trip code in the parameters.<br><br><br>
 ![New Trip Gone View](/docs/assets/images/CS465TripGoneEnhance3.png)<br>
-Here it shows the trip gone from both the database and on the website.<br><br>
+Here it shows the trip gone from both the database and on the website.<br><br><br>
 ![New User Delete View](/docs/assets/images/CS465DeleteUserEnhance3.png)<br>
-This shows a successful delete user function, which requires data to be sent along with the request shown in the email under “Body”.<br><br>
+This shows a successful delete user function, which requires data to be sent along with the request shown in the email under “Body”.<br><br><br>
 ![New User Gone View](/docs/assets/images/CS465UserGoneEnhance3.png)<br>
-This is the database showing only a single admin user after the delete function was performed.<br><br>
+This is the database showing only a single admin user after the delete function was performed.<br><br><br>
 
 This project was the most recent project I completed in my program. It was a class taken at the end of my program and was taken right before the capstone in my case. I wanted to have an old project to showcase how I can improve from older and lower quality designed, but also a newer project to highlight my growth through the program. I think that this project accomplishes that greatly as it shows my improvements in coding style, what I am capable of, and overall critical thinking in terms of the project. The artifact itself highlights my skills in web development and working with databases as this artifact makes heavy use of both. The artifact improves the functionality of the website by completing CRUD capabilities. The website was missing the ability to delete from the database which is now possible from this artifacts inclusion.
 
