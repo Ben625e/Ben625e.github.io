@@ -65,8 +65,7 @@ The Original Project can be found -> [Here](https://github.com/Ben625e/CS-320)
 
 The Enhanced Project can be found -> [Here](https://github.com/Ben625e/Ben625e.github.io/tree/main/BenjaminMillsCS320ProjectOneEnhancement1)
 
-The following images provide quick recap of what was shown in the code review.
-
+The following images provide quick recap of what was shown in the code review:<br><br>
 
 ![Project View](/docs/assets/images/CS320ProjectView.png)
 
