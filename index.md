@@ -104,7 +104,7 @@ The Original Project can be found -> [Here](https://github.com/Ben625e/CS-320)
 
 The Enhanced Project can be found -> [Here](https://github.com/Ben625e/Ben625e.github.io/tree/main/BenjaminMillsCS320ProjectOne)
 
-This artifact improves the efficiency of the controllers by moving from an ArrayList structure to a BST structure. The entire code had to be reformatted to incorporate the new structure, and the security automation JUnit scripts had to reworked with some new tests being added. This work was done on all 3 portions of the project which include the Appointment, Contact, and Task portions of the project and ultimately created 6 new scripts for the project.<br><br>
+This artifact improves the efficiency of the controllers by moving from an ArrayList structure to a BST structure. The entire code had to be reformatted to incorporate the new structure, and the security automation JUnit scripts had to be reworked with some new tests being added. This work was done on all 3 portions of the project, which include the Appointment, Contact, and Task portions of the project. This ultimately created 6 new scripts for the project.<br><br>
 
 ![Node View](/docs/assets/images/CS320NodeEnhance2.png)
 ![BST View](/docs/assets/images/CS320BSTEnhance2.png)
