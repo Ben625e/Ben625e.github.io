@@ -153,4 +153,4 @@ Working through these enhancements helps show what I have learned over the cours
 
 ## Contact Info
 **Email -> ben.mills0172@gmail.com**<br>
-**LinkedIn -> (https://www.linkedin.com/in/benjamin-mills3775/)**
+**LinkedIn -> https://www.linkedin.com/in/benjamin-mills3775/**
