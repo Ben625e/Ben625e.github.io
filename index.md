@@ -152,5 +152,5 @@ Creating this artifact had a stressful planning process. I found myself worrying
 Working through these enhancements helps show what I have learned over the course of my program. I would have had no idea where to start when it comes to working with databases or implementing a BST at the beginning of the program. However, my learned skillset in these topics shows my desire to grow and learn new techniques. I will continue to advance my knowledge and raise my standards in my professional career. As I get more expierence, more projects completed, and apply new techniques, I am sure I will look back on these projects the same way I look back on my older projects now. I will see new ways to achieve the goals in more efficient and effective ways. I am eager to start my professional career to showcase the talents I have acquired in software development!
 
 ## Contact Info
-**Email -> ben.mills0172@gmail.com**
+**Email -> ben.mills0172@gmail.com**<br>
 **LinkedIn -> [Here](https://www.linkedin.com/in/benjamin-mills3775/)
